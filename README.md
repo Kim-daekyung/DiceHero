@@ -3,7 +3,9 @@ DiceHero
 
 |색|흰색 | 초록 | 파랑 | 빨강 |
 |--|--|--|--|--|
-|등급|<span style="color:red">일반</span>|정예|실력자|간부|
+|등급| <span style="color:yellow">일반</span>|정예|실력자|간부|
+
+<span style="color:red">일반</span>
 
 
 
